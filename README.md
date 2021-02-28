@@ -5,3 +5,7 @@
 :joystick: The area that I'm most interested in is serious game development, and I'm developing new skills in the machine learning area <br/><br/>
 :globe_with_meridians: I am looking for job, internship or exchange opportunities <br/>
  
+### How to find me 🔎
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/letícia-marques-28b7b6127/)
+&nbsp;
