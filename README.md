@@ -33,7 +33,7 @@
   <a href="https://www.instagram.com/let.marqs" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" style="margin: 59px;"/>
   </a>
-  <a href="leticia.marquespinho@gmail.com" target="_blank">
+  <a href="mailto:leticia.marquespinho@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40" style="margin: 59px;"/>
   </a>
 </p>
