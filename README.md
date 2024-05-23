@@ -17,7 +17,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="60" height="60" style="margin: 10px;"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LetMarq&layout=compact)
+<p align="center">
+<a href="https://github.com/Sr-Vinicius">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetMarq&layout=compact&theme=gotham" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LetMarq&theme=gotham&layout=compact&rank_icon=github" />
+</a>
+</p>
 
 ### How to find me 🔎
 
