@@ -1,6 +1,6 @@
 ### Hello you who came to visit me 🚀 
 
-:speech_balloon: My name is Letícia Marques, and I am a Biomedical Engineering student in Brazil. I am passionate about bridging health and technology. <br/><br/>
+:speech_balloon: My name is Letícia Marques, and I am a Biomedical Engineering graduate in Brazil. I am passionate about bridging health and technology. <br/><br/>
 :brain: Currently, I am a FullStack Developer working with Python and React. I also work with PostgreSQL and a bit of Kotlin for my thesis! <br/><br/>
 :joystick: I am particularly interested in game development, especially serious games, and in web development, which is my current focus. <br/><br/>
 :globe_with_meridians: I'm constantly striving to improve and evolve every day! <br/><br/>
