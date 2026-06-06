@@ -18,7 +18,6 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Sr-Vinicius">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetMarq&layout=compact&theme=gotham" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LetMarq&theme=gotham&layout=compact&rank_icon=github" />
 </a>
