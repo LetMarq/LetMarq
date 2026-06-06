@@ -24,7 +24,7 @@
 |---|---|---|
 | [🏃 MoveApp](https://github.com/LetMarq/MoveApp) | Android fitness app that connects to Polar heart rate sensors via Bluetooth and syncs a metronome to keep athletes in their target heart rate zone | Kotlin · Android · Polar API |
 | [🧠 Quaternion](https://github.com/LetMarq/Quaternion) | Inertial tracking system that detects compensatory movements in VR rehabilitation games for stroke patients recovering upper limb function | Python · Tkinter |
-| [🎲 Roll for Wisdom](https://github.com/LetMarq/ttrpg) *(in progress)* | Educational TTRPG delivered as a text adventure, with an AI-assisted narrator designed for classroom use | Godot · GDScript |
+| [🎲 Roll for Wisdom](https://github.com/LetMarq/ttrpg) *(in progress)* | Educational TTRPG delivered as a text adventure, with an assisted narrator designed for classroom use | Godot · GDScript |
 | [🌐 Portfolio](https://github.com/LetMarq/portfolio) *(in progress)* | Personal portfolio website | React |
 
 ---
